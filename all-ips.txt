@@ -1,0 +1,4 @@
+private-ip-0 : 10.0.1.247
+private-ip-1 : 10.0.3.134
+public-ip-0 : 54.234.62.127
+public-ip-1 : 52.91.44.55
